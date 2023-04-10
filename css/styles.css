@@ -18,10 +18,22 @@ a.numero-telefonico {
 .logo{
     color: #2196F3;
     font-family: 'Raleway', sans-serif;
-    font-style: Bold;
+    font-style: bold;
     font-size: 26px;
     line-height: 31px;
     line-height: 100%;
+    text-align: right;
     vertical-align: top;
     letter-spacing: 3%;
+}
+.solicite-nuestro-servicio{
+    background-color: #2F303A;
+    color: #FFFFFF;
+}
+button{
+    color: #FFFFFF;
+    background-color: #2196F3;
+}
+a:hover{
+    color: #2196F3;
 }
