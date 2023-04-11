@@ -1,100 +1,100 @@
-@import 'node_modules/modern-normalize/modern-normalize.css';
-@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@700&family=Roboto:wght@400;500;700;900&display=swap');
+@import "node_modules/modern-normalize/modern-normalize.css";
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@700&family=Roboto:wght@400;500;700;900&display=swap");
 a {
-    text-decoration: none;
+  text-decoration: none;
 }
 .correo-header {
-    color: #757575;
+  color: #757575;
 }
 
 .numero-telefonico-header {
-    color: #757575;
+  color: #757575;
 }
-.logo{
-    color: #2196F3;
-    font-family: 'Raleway', sans-serif;
-    font-style: bold;
-    font-size: 26px;
-    line-height: 31px;
-    line-height: 100%;
-    text-align: right;
-    vertical-align: top;
-    letter-spacing: 3%;
+.logo {
+  color: #2196f3;
+  font-family: "Raleway", sans-serif;
+  font-style: bold;
+  font-size: 26px;
+  line-height: 31px;
+  line-height: 100%;
+  text-align: right;
+  vertical-align: top;
+  letter-spacing: 3%;
 }
-.solicite-nuestro-servicio{
-    background-color: #2F303A;
+.solicite-nuestro-servicio {
+  background-color: #2f303a;
 }
-h1{
-    color: #FFFFFF;
-    font-family: 'Roboto', sans-serif;
-    font-style: black;
-    font-size: 44px;
-    line-height: 60px;
-    line-height: 116%;
-    text-align: center;
-    vertical-align: top;
-    letter-spacing: 6%;
+h1 {
+  color: #ffffff;
+  font-family: "Roboto", sans-serif;
+  font-style: black;
+  font-size: 44px;
+  line-height: 60px;
+  line-height: 116%;
+  text-align: center;
+  vertical-align: top;
+  letter-spacing: 6%;
 }
-.boton{
-    color: #FFFFFF;
-    background-color: #2196F3;
-    font-family: 'Roboto', sans-serif;
-    font-style: bold;
-    font-size: 16px;
-    line-height: 30px;
-    line-height: 160%;
-    text-align: center;
-    letter-spacing: 6%;
+.boton {
+  color: #ffffff;
+  background-color: #2196f3;
+  font-family: "Roboto", sans-serif;
+  font-style: bold;
+  font-size: 16px;
+  line-height: 30px;
+  line-height: 160%;
+  text-align: center;
+  letter-spacing: 6%;
 }
-a:hover{
-    color: #2196F3;
+a:hover {
+  color: #2196f3;
 }
 body {
-    background-color: white;
-    color: #212121;
-    font-family: 'Roboto', sans-serif;
+  background-color: white;
+  color: #212121;
+  font-family: "Roboto", sans-serif;
 }
-p{
-    color: #757575;
+p {
+  color: #757575;
 }
-.links{
-    font-family: 'Roboto', sans-serif;
-    font-style: black;
-    font-weight: 700;
-    font-size: 14px;
-    line-height: 16px;
-    line-height: 100%;
-    text-align: left;
-    vertical-align: top;
-    letter-spacing: 2%;
-    color: #212121;
+.links {
+  font-family: "Roboto", sans-serif;
+  font-style: black;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 16px;
+  line-height: 100%;
+  text-align: left;
+  vertical-align: top;
+  letter-spacing: 2%;
+  color: #212121;
 }
-footer{
-    background-color: #2F303A;
+footer {
+  background-color: #2f303a;
 }
-.direccion-mexico-footer{
-    color: #FFFFFF;
+.direccion-mexico-footer {
+  color: #ffffff;
 }
-.correo-footer{
-    color: rgba(255, 255, 255, 0.6);
+.correo-footer {
+  color: rgba(255, 255, 255, 0.6);
 }
-.numero-telefonico-footer{
-    color: rgba(255, 255, 255, 0.6);
+.numero-telefonico-footer {
+  color: rgba(255, 255, 255, 0.6);
 }
-li{
-    list-style-type: none;
+li {
+  list-style-type: none;
 }
-.titulo-imagen{
-    font-family: 'Roboto', sans-serif;
-    font-style: bold;
-    font-size: 18px;
-    line-height: 36px;
-    line-height: 171%;
-    text-align: left;
-    vertical-align: top;
-    letter-spacing: 6%;
+.titulo-imagen {
+  font-family: "Roboto", sans-serif;
+  font-style: bold;
+  font-size: 18px;
+  line-height: 36px;
+  line-height: 171%;
+  text-align: left;
+  vertical-align: top;
+  letter-spacing: 6%;
 }
-.botones-portafolio:hover{
-    background-color: #2196F3;
-    color: #FFFFFF;
+.botones-portafolio:hover {
+  background-color: #2196f3;
+  color: #ffffff;
 }
