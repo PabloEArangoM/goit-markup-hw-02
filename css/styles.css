@@ -15,8 +15,7 @@ a {
   font-family: "Raleway", sans-serif;
   font-style: bold;
   font-size: 26px;
-  line-height: 31px;
-  line-height: 100%;
+  line-height: 1.19;
   text-align: right;
   vertical-align: top;
   letter-spacing: 3%;
@@ -29,8 +28,7 @@ h1 {
   font-family: "Roboto", sans-serif;
   font-style: black;
   font-size: 44px;
-  line-height: 60px;
-  line-height: 116%;
+  line-height: 1.36;
   text-align: center;
   vertical-align: top;
   letter-spacing: 6%;
@@ -41,8 +39,7 @@ h1 {
   font-family: "Roboto", sans-serif;
   font-style: bold;
   font-size: 16px;
-  line-height: 30px;
-  line-height: 160%;
+  line-height: 1.87;
   text-align: center;
   letter-spacing: 6%;
 }
@@ -56,20 +53,26 @@ body {
 }
 p {
   color: #757575;
+  font-family: "Roboto", sans-serif;
+  font-size: 14px;
+  font-style: normal;
+  line-height: 1.71;
+  text-align: left;
+  vertical-align: top;
+  letter-spacing: 3%;
 }
 .links {
   font-family: "Roboto", sans-serif;
   font-style: black;
   font-weight: 700;
   font-size: 14px;
-  line-height: 16px;
-  line-height: 100%;
+  line-height: 1.14;
   text-align: left;
   vertical-align: top;
   letter-spacing: 2%;
   color: #212121;
 }
-.links:focus{
+a:focus{
   color: #2196f3;
 }
 footer {
@@ -91,8 +94,7 @@ li {
   font-family: "Roboto", sans-serif;
   font-style: bold;
   font-size: 18px;
-  line-height: 36px;
-  line-height: 171%;
+  line-height: 2;
   text-align: left;
   vertical-align: top;
   letter-spacing: 6%;
@@ -104,4 +106,34 @@ li {
 .botones-portafolio:focus{
   color: #ffffff;
   background-color: #2196f3;
+}
+h2{
+  font-family: "Roboto", sans-serif;
+  font-style: bold;
+  font-size: 36px;
+  line-height: 1.16;
+  text-align: center;
+  vertical-align: top;
+  letter-spacing: 3%;
+}
+h3{
+  font-family: "Roboto", sans-serif;
+  font-style: bold;
+  font-size: 18px;
+  line-height: 2;
+  text-align: left;
+  vertical-align: top;
+  letter-spacing: 6%;
+}
+.botones-portafolio{
+  font-family: "Roboto", sans-serif;
+  font-style: medium;
+  font-size: 16px;
+  line-height: 1.62;
+  text-align: center;
+  vertical-align: top;
+  letter-spacing: 3%;
+}
+button{
+  cursor: pointer;
 }
