@@ -98,3 +98,7 @@ li {
   background-color: #2196f3;
   color: #ffffff;
 }
+.botones-portafolio:focus{
+  color: #ffffff;
+  background-color: #2196f3;
+}
