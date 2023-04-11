@@ -84,3 +84,17 @@ footer{
 li{
     list-style-type: none;
 }
+.titulo-imagen{
+    font-family: 'Roboto', sans-serif;
+    font-style: bold;
+    font-size: 18px;
+    line-height: 36px;
+    line-height: 171%;
+    text-align: left;
+    vertical-align: top;
+    letter-spacing: 6%;
+}
+.botones-portafolio:hover{
+    background-color: #2196F3;
+    color: #FFFFFF;
+}
